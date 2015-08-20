@@ -1,0 +1,28 @@
+{
+  "name": "hadoukopedia",
+  "version": "1.0.0",
+  "description": "An Un-endorsed SFIV website",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "express": "^4.13.3",
+    "gulp-sass": "^2.0.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj16123/hadoukopedia.git"
+  },
+  "author": "Thomas Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tj16123/hadoukopedia/issues"
+  },
+  "homepage": "https://github.com/tj16123/hadoukopedia#readme"
+}
